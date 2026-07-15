@@ -6,5 +6,8 @@ This is a little extension that want to solve a little problem to my working flo
 Search a word in a selected json file and return the path with separation that contains the value of the word
 ex: **grid.card.hero.form.title**
 
+<video controls>
+  <source src="./example.mov" type="video/mp4">
+</video>
 
 **Enjoy!**
