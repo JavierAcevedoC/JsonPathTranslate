@@ -1,0 +1,22 @@
+{
+    "grid": {
+        "card": {
+            "hero": {
+                "title": "Hero Card",
+                "description": "This is a hero card description."
+            },
+            "agent": {
+                "assign": "Assign Agent",
+                "unassign": "Unassign Agent"
+            }
+        }
+    },
+    "route": {
+        "cases": "Cases",
+        "dashboard": "Dashboard",
+        "home": "Home",
+        "login": "Login",
+        "logout": "Logout",
+        "profile": "Profile"
+    }
+}
